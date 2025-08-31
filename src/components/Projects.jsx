@@ -31,6 +31,21 @@ const projects = [
     desc: "Personal portfolio website built with React & TailwindCSS.",
     link: "https://github.com/yourgithub/sql-projects",
   },
+  {
+    title: "Ola End to End Analysis",
+    desc: "Comprehensive data analysis of Ola rides using SQl and PowerBI.",
+    link: "https://github.com/kartikkumar82/Ola_Data_Analysis_Project",
+  },
+  {
+    title: "Faasos Delevery Analysis",
+    desc: "Delivery performance analysis using Advance SQL .",
+    link: "https://github.com/kartikkumar82/faasos_delivery_analysis_sql",
+  },
+  {
+    title: "Sales Dashboard PowerBI",
+    desc: "Interactive sales dashboard visualizing key metrics with PowerBI.",
+    link: "https://github.com/kartikkumar82/Sales_Dashboard_PowerBI",
+  },
 ];
 
 const Projects = () => {
@@ -40,7 +55,7 @@ const Projects = () => {
       className="py-16 bg-gray-50 flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8"
     >
       <div className="max-w-7xl mx-auto text-center">
-        <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800">
+        <h2 className="text-3xl sm:text-3xl md:text-4xl font-bold text-gray-800">
           Projects
         </h2>
 

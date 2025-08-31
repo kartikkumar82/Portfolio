@@ -7,7 +7,7 @@ const About = () => {
       className="py-16 bg-white flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8"
     >
       <div className="max-w-5xl mx-auto text-center">
-        <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800">
+        <h2 className="text-3xl sm:text-4xl md:text-3xl font-bold text-gray-800">
           About Me
         </h2>
 

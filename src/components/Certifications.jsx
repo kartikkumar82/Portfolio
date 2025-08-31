@@ -5,7 +5,7 @@ const Certifications = () => {
   return (
     <section id="certifications" className="min-h-screen  bg-gray-50 py-16 px-6   ">
       <div className="max-w-5xl mx-auto md:mt-10">
-        <h2 className="sm:text-5xl font-bold text-center text-gray-800 mb-12 flex items-center justify-center gap-3">
+        <h2 className="sm:text-4xl font-bold text-center text-gray-800 mb-12 flex items-center justify-center gap-3">
            Certifications
         </h2>
 

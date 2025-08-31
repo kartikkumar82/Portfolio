@@ -31,7 +31,7 @@ const Navbar = () => {
       <div className="w-full flex justify-between items-center px-6 py-4">
         {/* Logo */}
         <h1 className="text-2xl font-bold text-blue-600 cursor-pointer">
-          Kartik | Data Analyst
+          Data Analyst
         </h1>
 
         {/* Desktop Links */}

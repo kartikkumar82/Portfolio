@@ -8,7 +8,7 @@ const Education = () => {
       className="py-16 bg-gray-50 flex flex-col items-center justify-center px-4 sm:px-6 lg:px-8 "
     >
       <div className="max-w-4xl w-full bg-white shadow-lg rounded-2xl p-6 sm:p-8 md:p-10">
-        <h2 className="text-3xl sm:text-5xl font-bold text-center text-gray-800 mb-8 flex items-center justify-center gap-3">
+        <h2 className="text-3xl sm:text-3xl font-bold text-center text-gray-800 mb-8 flex items-center justify-center gap-3">
           <FaGraduationCap className="text-blue-600 text-2xl " /> Education
         </h2>
 
