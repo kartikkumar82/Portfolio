@@ -19,16 +19,16 @@ const Contact = () => {
           
           {/* Social Links */}
           <div className="flex flex-col gap-4 mt-4">
-            <a href="mailto:your.email@example.com" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
+            <a href="mailto:kartikkumar1800089@gmail.com" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
               <FaEnvelope className="text-xl" /> kartikkumar1800089@gmail.com
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
+            <a href="www.linkedin.com/in/kartikkumar82" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
               <FaLinkedin className="text-xl" /> LinkedIn
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
+            <a href="https://github.com/kartikkumar82" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
               <FaGithub className="text-xl" /> GitHub
             </a>
-            <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
+            <a href="https://x.com/KartikKuma82" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-blue-600 transition">
               <FaTwitter className="text-xl" /> Twitter
             </a>
           </div>
