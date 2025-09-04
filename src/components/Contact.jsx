@@ -35,8 +35,14 @@ const Contact = () => {
         </div>
 
         {/* Contact Form - Right */}
-        <div className="md:w-1/2 bg-gray-50 rounded-2xl p-6 shadow-lg">
-          <form className="flex flex-col gap-4">
+        <div 
+        name = 'contact'
+        method = 'POST'
+        data-netlify = 'true' 
+        className="md:w-1/2 bg-gray-50 rounded-2xl p-6 shadow-lg">
+          <form 
+          
+          className="flex flex-col gap-4">
             <input
               type="text"
               placeholder="Your Name"
