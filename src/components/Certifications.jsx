@@ -18,7 +18,7 @@ const Certifications = () => {
             </h3>
             <p className="text-gray-600">HackerRank</p>
             <a
-              href="YOUR_HACKERRANK_CERTIFICATE_LINK"
+              href="https://drive.google.com/file/d/1Kp8vUsVoOuALvie0cuNbge8NaPb2PZj7/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline text-sm mt-2 inline-block"
@@ -34,7 +34,7 @@ const Certifications = () => {
             </h3>
             <p className="text-gray-600">Google (Coursera)</p>
             <a
-              href="YOUR_COURSE_CERTIFICATE_LINK"
+              href="https://drive.google.com/file/d/1KsbXa7-iLNkJod7dRQ6p_6FQRIvkfwy9/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline text-sm mt-2 inline-block"
@@ -50,7 +50,7 @@ const Certifications = () => {
             </h3>
             <p className="text-gray-600">Cognitive Class (IBM)</p>
             <a
-              href="YOUR_IBM_CERTIFICATE_LINK"
+              href="https://drive.google.com/file/d/1KjS-D5owRjZX5NsOXbjM14uNqAe5X9dF/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline text-sm mt-2 inline-block"
@@ -66,7 +66,7 @@ const Certifications = () => {
             </h3>
             <p className="text-gray-600">United Latino Students Association</p>
             <a
-              href="YOUR_HACKERRANK_CERTIFICATE_LINK"
+              href="https://drive.google.com/file/d/1KjfkKBVuSEHonncWrh4SFfjltF2th95f/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline text-sm mt-2 inline-block"
@@ -82,7 +82,7 @@ const Certifications = () => {
             </h3>
             <p className="text-gray-600">HP LIFE</p>
             <a
-              href="YOUR_HACKERRANK_CERTIFICATE_LINK"
+              href="https://drive.google.com/file/d/16qPVBPvHJypX9rqxhvCHzDHuOZb92A54/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline text-sm mt-2 inline-block"
