@@ -11,7 +11,11 @@ const Hero = () => {
         <a href="#projects" className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700">
           View Projects
         </a>
-        <a href="/resume.pdf" className="px-6 py-3 border border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50">
+        <a
+          href="/Kartik3.pdf"
+          className="px-6 py-3 border border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50"
+          download
+        >
           Download Resume
         </a>
       </div>

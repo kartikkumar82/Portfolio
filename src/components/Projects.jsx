@@ -7,6 +7,11 @@ const projects = [
     link: "https://github.com/kartikkumar82/movie_recommender_system",
   },
   {
+    title: "Whatsapp Chat Analysis",
+    desc: "Analyzed WhatsApp chat data using Python and Machine Learning for insights & trends.",
+    link: "https://whatsappchatanalyzer-ztivqdmu3pzimjz6eysd6b.streamlit.app/",
+  },
+  {
     title: "IPL Capstone Project",
     desc: "Data analysis & visualization of IPL matches using Python.",
     link: "https://github.com/kartikkumar82/IPL_Capstone_Project",
@@ -36,11 +41,7 @@ const projects = [
     desc: "Comprehensive data analysis of Ola rides using SQl and PowerBI.",
     link: "https://github.com/kartikkumar82/Ola_Data_Analysis_Project",
   },
-  {
-    title: "Faasos Delevery Analysis",
-    desc: "Delivery performance analysis using Advance SQL .",
-    link: "https://github.com/kartikkumar82/faasos_delivery_analysis_sql",
-  },
+  
   {
     title: "Sales Dashboard PowerBI",
     desc: "Interactive sales dashboard visualizing key metrics with PowerBI.",
