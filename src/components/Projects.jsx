@@ -12,9 +12,9 @@ const projects = [
     link: "https://whatsappchatanalyzer-ztivqdmu3pzimjz6eysd6b.streamlit.app/",
   },
   {
-    title: "IPL Capstone Project",
-    desc: "Data analysis & visualization of IPL matches using Python.",
-    link: "https://github.com/kartikkumar82/IPL_Capstone_Project",
+    title: "Emotion Detection from Text",
+    desc: "NLP model classifying text into emotions like happy, sad, angry.",
+    link: "https://emotiondetector-hbjwdygzt2jhlwahyakk9j.streamlit.app/",
   },
   {
     title: "SQL Projects (7 Days Challenge)",
